@@ -15,6 +15,14 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+  fill(0,0,0)
+  textSize(30)
+  text("My favorite food", 180, 36)
+  
+  textSize(15)
+  text("Jayce Talis", 140, 70)
+  text("ravioli", 140, 100)
+  text("rice", 140, 130)
   
 };
 
